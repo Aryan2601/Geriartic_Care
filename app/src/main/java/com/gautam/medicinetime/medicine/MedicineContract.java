@@ -8,9 +8,7 @@ import com.gautam.medicinetime.data.source.MedicineAlarm;
 
 import java.util.List;
 
-/**
- * Created by gautam on 13/07/17.
- */
+
 
 public interface MedicineContract {
 

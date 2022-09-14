@@ -5,9 +5,7 @@ import com.gautam.medicinetime.BaseView;
 import com.gautam.medicinetime.data.source.History;
 import java.util.List;
 
-/**
- * Created by gautam on 13/07/17.
- */
+
 
 public interface MonthlyReportContract {
 

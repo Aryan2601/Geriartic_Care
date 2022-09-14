@@ -22,9 +22,7 @@ import java.util.Objects;
 
 import static android.content.Context.ALARM_SERVICE;
 
-/**
- * Created by gautam on 13/07/17.
- */
+
 
 public class MedicinePresenter implements MedicineContract.Presenter {
 

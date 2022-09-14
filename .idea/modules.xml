@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android mini-Medicine-Time-.iml" filepath="$PROJECT_DIR$/android mini-Medicine-Time-.iml" group="Medicine-Time-" />
-      <module fileurl="file://$PROJECT_DIR$/app/android mini-Medicine-Time--app.iml" filepath="$PROJECT_DIR$/app/android mini-Medicine-Time--app.iml" group="Medicine-Time-/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Geriartic_Care.iml" filepath="$PROJECT_DIR$/.idea/modules/Geriartic_Care.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Geriartic_Care.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Geriartic_Care.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Geriartic_Care.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Geriartic_Care.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Geriartic_Care.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Geriartic_Care.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Geriartic_Care.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Geriartic_Care.app.unitTest.iml" />
     </modules>
   </component>
 </project>

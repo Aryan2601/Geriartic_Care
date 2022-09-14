@@ -36,9 +36,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 import butterknife.Unbinder;
 
-/**
- * Created by gautam on 13/07/17.
- */
+
 
 public class MedicineFragment extends Fragment implements MedicineContract.View, MedicineAdapter.OnItemClickListener {
 

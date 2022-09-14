@@ -9,9 +9,6 @@ import com.gautam.medicinetime.data.source.MedicineRepository;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by gautam on 13/07/17.
- */
 
 public class MonthlyReportPresenter implements MonthlyReportContract.Presenter {
 

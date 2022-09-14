@@ -18,9 +18,7 @@ import java.util.Map;
 import java.util.Random;
 
 
-/**
- * Created by gautam on 13/05/17.
- */
+
 
 public class FakeMedicineLocalDataSource implements MedicineDataSource {
 

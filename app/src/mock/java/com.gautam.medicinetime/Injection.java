@@ -6,9 +6,7 @@ import androidx.annotation.NonNull;
 import com.gautam.medicinetime.data.source.MedicineRepository;
 import com.gautam.medicinetime.data.source.local.MedicinesLocalDataSource;
 
-/**
- * Created by gautam on 13/07/17.
- */
+
 
 public class Injection {
 
