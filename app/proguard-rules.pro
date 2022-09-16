@@ -74,8 +74,8 @@
 }
 
 #Database table
--keep class com.gautam.medicinetime.data.**
--keepclassmembers class com.gautam.medicinetime.data.** { *; }
+-keep class com.project.geriarticcare.data.**
+-keepclassmembers class com.project.geriarticcare.data.** { *; }
 
 #ButterKnife
 -keep class butterknife.*
