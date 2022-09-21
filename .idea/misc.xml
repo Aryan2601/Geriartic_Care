@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/indrajith/StudioProjects/Geriartic_Care/app/src/main/res/layout/activity_caretaker_login.xml" value="0.1" />
+        <entry key="..\:/Users/indrajith/StudioProjects/Geriartic_Care/app/src/main/res/layout/activity_caretaker_register.xml" value="0.1" />
+        <entry key="..\:/Users/indrajith/StudioProjects/Geriartic_Care/app/src/main/res/layout/activity_elderly_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/indrajith/StudioProjects/Geriartic_Care/app/src/main/res/layout/activity_elderly_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/indrajith/StudioProjects/Geriartic_Care/app/src/main/res/layout/activity_ngo_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/indrajith/StudioProjects/Geriartic_Care/app/src/main/res/layout/activity_ngo_register.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
     <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />

@@ -24,4 +24,8 @@
     <string name="no_taken_med_history">You have not taken any medicine</string>
     <string name="no_ignored_history">Well Done</string>
     <string name="menu_stats">Monthly Report</string>
+    <string name="elderly">Elderly</string>
+    <string name="login">Login</string>
+    <string name="ngo">NGO</string>
+    <string name="caretaker">Caretaker</string>
 </resources>
