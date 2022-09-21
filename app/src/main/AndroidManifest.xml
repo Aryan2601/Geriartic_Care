@@ -13,7 +13,12 @@
         android:theme="@style/AppTheme.NoActionBar">
         <activity
             android:name=".authentication.MainActivity"
-            android:exported="false" />
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".authentication.NGOLoginPage"
             android:exported="false" />
@@ -32,13 +37,7 @@
         <activity
             android:name=".authentication.CaretakerLoginPage"
             android:exported="false" />
-        <activity android:name="com.project.geriarticcare.medicine.MedicineActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity> <!-- <activity android:name=".MainActivity" /> -->
+        <activity android:name="com.project.geriarticcare.medicine.MedicineActivity" android:exported="false"></activity>
         <activity android:name="com.project.geriarticcare.addmedicine.AddMedicineActivity" />
         <activity android:name="com.project.geriarticcare.alarm.ReminderActivity" />
         <activity android:name="com.project.geriarticcare.report.MonthlyReportActivity" />
