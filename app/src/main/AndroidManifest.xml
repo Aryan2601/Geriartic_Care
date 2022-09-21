@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.project.geriarticcare">
+
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
@@ -11,10 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
         <activity
+            android:name=".authentication.MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".authentication.NGOLoginPage"
-            android:exported="false"
-            android:label="@string/title_activity_ngologin_page"
-            android:theme="@style/AppTheme.NoActionBar.NoActionBar" />
+            android:exported="false" />
         <activity
             android:name=".authentication.NGORegistrationPage"
             android:exported="false" />
