@@ -33,7 +33,6 @@ public class FakeMedicineLocalDataSource implements MedicineDataSource {
 
     //Prevent from direct Instantiation
     private FakeMedicineLocalDataSource() {
-
     }
 
     static {

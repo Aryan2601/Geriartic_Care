@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">Medicine Time</string>
+    <string name="app_name">Application</string>
+    <string name="elderly">Elderly</string>
+    <string name="caretaker">Caretaker</string>
+    <string name="ngo">NGO</string>
+    <string name="login">Login</string>
     <string name="title_medicine_name">Medicine Name</string>
     <string name="hint_enter_med_name">Enter Medicine</string>
     <string name="medicine_days">Medicine Days</string>

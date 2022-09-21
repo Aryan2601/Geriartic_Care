@@ -6,7 +6,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import androidx.appcompat.widget.Toolbar;
 
-import com.project.geriarticcare.Injection;
 import com.project.geriarticcare.R;
 import com.project.geriarticcare.utils.ActivityUtils;
 
@@ -65,7 +64,7 @@ public class AddMedicineActivity extends AppCompatActivity {
 //        // Create the presenter
         mAddMedicinePresenter = new AddMedicinePresenter(
                 medId,
-                Injection.provideMedicineRepository(getApplicationContext()),
+                com.project.geriarticcare.mock.Injection.provideMedicineRepository(getApplicationContext()),
                 addMedicineFragment,
                 shouldLoadDataFromRepo);
 

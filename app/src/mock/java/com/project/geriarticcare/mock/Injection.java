@@ -1,4 +1,4 @@
-package com.project.geriarticcare;
+package com.project.geriarticcare.mock;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
