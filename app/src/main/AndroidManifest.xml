@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
         <activity
+            android:name=".ElderlyRegistrationPage"
+            android:exported="false" />
+        <activity
+            android:name=".ElderlyLogin"
+            android:exported="false" />
+        <activity
             android:name=".authentication.CaretakerRegistrationPage"
             android:exported="false" />
         <activity
