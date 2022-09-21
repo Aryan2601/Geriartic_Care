@@ -28,4 +28,6 @@
     <string name="login">Login</string>
     <string name="ngo">NGO</string>
     <string name="caretaker">Caretaker</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 </resources>
